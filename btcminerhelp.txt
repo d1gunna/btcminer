@@ -1,0 +1,18 @@
+# installation
+# download latest python (https://www.python.org/downloads/)
+  [Or watch this video (not mine) https://www.youtube.com/watch?v=Kn1HF3oD19c]
+
+#(After installed python) 
+# go to downloads folder and extract the downloaded file
+# then open the extracted folded until you reach "main" (should be a .txt)
+  [https://paste.pics/13d541e262fb1a12c7aa1f54fc5172c9] 
+# CTRL + C the folder directory (uploaded screenshot for people that don't know how)
+# open cmd (Command Prompt) and type "cd" AND paste the directory you copied then hit "ENTER"
+  [https://paste.pics/12d48ac6148f15ef46d8dbda3bcc7ef3 (uploaded screenshot)
+# then type "py main.py" and there you go!
+
+# for any issues pls contact me gunna#0001
+# it will say you're logged in as gunna#0001 and you will have VIP 
+  as i'm not bothered to change it and that's the best version of 
+  the btc miner. :)
+
